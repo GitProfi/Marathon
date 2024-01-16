@@ -1,0 +1,14 @@
+C:\Users\leonr\Git\Marathon\bin\Debug\net7.0\Marathon.exe
+C:\Users\leonr\Git\Marathon\bin\Debug\net7.0\Marathon.deps.json
+C:\Users\leonr\Git\Marathon\bin\Debug\net7.0\Marathon.runtimeconfig.json
+C:\Users\leonr\Git\Marathon\bin\Debug\net7.0\Marathon.dll
+C:\Users\leonr\Git\Marathon\bin\Debug\net7.0\Marathon.pdb
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.AssemblyInfoInputs.cache
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.AssemblyInfo.cs
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.csproj.CoreCompileInputs.cache
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.dll
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\refint\Marathon.dll
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.pdb
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.genruntimeconfig.cache
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\ref\Marathon.dll
