@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Marathon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f7bd5537912d8425062e007c4bf5a885d45dfd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marathon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marathon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

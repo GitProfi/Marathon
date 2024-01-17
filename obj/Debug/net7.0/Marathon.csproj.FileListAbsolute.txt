@@ -12,3 +12,4 @@ C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\refint\Marathon.dll
 C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.pdb
 C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.genruntimeconfig.cache
 C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\ref\Marathon.dll
+C:\Users\leonr\Git\Marathon\obj\Debug\net7.0\Marathon.sourcelink.json
